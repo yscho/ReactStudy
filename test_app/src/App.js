@@ -14,7 +14,7 @@ function App() {
   /*
         let num = [1,2];  //
         let a = num[0];   //1을 뽑는 문법
-        let c = num[1]
+        let c = num[1] 
 
         let [ a, c] = [1, 2]; // 이것이 바로 descsucture 문법
         
